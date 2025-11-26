@@ -1,4 +1,4 @@
-# Legacy Car Sales Analysis Dashboard
+# Legacy Car Sales Analysis Dashboard (Power BI)
 
 <img width="1403" height="787" alt="Legacy Car Sales Dashboard (Overview Page) SS" src="https://github.com/user-attachments/assets/07aa8db0-f9cb-402c-9872-58b9eefe11cf" />
 
