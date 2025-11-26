@@ -42,7 +42,15 @@ To address these gaps, Legacy has commissioned a dynamic Power BI dashboard that
 
 * Data Cleaning in Power Query.
 
+Here is the image of the cleaned data:
+
+<img width="1920" height="1030" alt="Table 1 (car_data)" src="https://github.com/user-attachments/assets/088d6286-c54d-479b-a215-08ff20703241" />
+
 * Custom Calendar Table Creation.
+
+Here is the image of the Calendar Table (custom-created):
+
+<img width="1920" height="1032" alt="Table 2 (Calendar Table)" src="https://github.com/user-attachments/assets/d2283075-e151-4d52-a834-056a9056a94f" />
 
 * DAX.
 
@@ -57,3 +65,7 @@ Here is the image:
 * Data visualisation.
 
 * Story-Telling through Data.
+
+# Conclusion
+
+This dashboard enables Legacy to move from raw data to insight-driven decision-making. With clear KPIs, dynamic filters, and drillable visuals, teams across leadership, operations, product, and support can monitor performance, diagnose issues, and take action with confidence.
